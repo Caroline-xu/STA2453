@@ -1,0 +1,11 @@
+# YOLO dataset configuration file for fish detection
+
+path: /Users/sakuramomoko/Desktop/Fish_counting  # Replace with the absolute path of your dataset folder
+train: cfc_train  # Path to training images (relative to 'path')
+val: cfc_channel_test  # Path to validation/testing images (relative to 'path')
+
+# Number of classes
+nc: 1  # Since you have only one fish category
+
+# Class names
+names: ["fish"]
