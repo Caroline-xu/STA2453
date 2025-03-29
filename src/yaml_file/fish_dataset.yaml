@@ -1,0 +1,5 @@
+names:
+- fish
+nc: 1
+train: cfc_train/
+val: cfc_channel_test/

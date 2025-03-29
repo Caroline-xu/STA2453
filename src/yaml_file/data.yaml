@@ -1,0 +1,10 @@
+train: /Users/sakuramomoko/Desktop/Fish_counting/yolo_images/train
+val: /Users/sakuramomoko/Desktop/Fish_counting/yolo_images/val   
+
+# Directories
+train_label_dir: /Users/sakuramomoko/Desktop/Fish_counting/yolo_images/train/labels
+val_label_dir: /Users/sakuramomoko/Desktop/Fish_counting/yolo_images/val/labels
+
+
+names: 
+  0: fish
