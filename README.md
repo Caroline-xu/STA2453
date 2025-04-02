@@ -22,6 +22,7 @@ STA2453/
 │   ├── Ziyu_Xu_Caroline_Proposal.pdf
 │   ├── Ziyu_Xu_Caroline_EDA.pdf
 │   ├── STA2453_Progress_Report.pdf
+│   ├── STA2453_Final_Report.pdf
 │   └── output_images/          # The images have been used in those reports
 
 ├── src/                        # Data, annotations, and config
